@@ -25,6 +25,12 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+#baner{
+	
+	height:150px;
+	margin-left:400px;
+	margin-bottom:10px;
+}
 /*--baner--*/
 .banner {
 	background:url(../images/slide-1.png)no-repeat center 0px;
@@ -541,9 +547,10 @@ h2.resp-accordion {
     border: 1px solid #8C8C8C;
     -webkit-appearance: none;
     display: inline-block;
+	margin-top:10px;
 }
 .contact-form input[type="text"].email {
-    margin: 3em 0 1em 0.5em;
+    margin: 2em 0 1em 0em;
 }
 .contact-form input[type="text"].phone {
     width: 100%;
