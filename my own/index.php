@@ -477,7 +477,7 @@ direction of the mountain top and we will get there. I believe  that we all have
 	<!--footer-->
 	<div class="footer">
 		<div class="container">
-			<p>Fully| Design by <a href="www.kanchankarki.com.np">Kanchan Karki</a></p>
+			<p>Designed by <a href="www.kanchankarki.com.np">Kanchan Karki</a></p>
 		</div>
 	</div>
 	<!--//footer-->
